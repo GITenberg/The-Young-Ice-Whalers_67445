@@ -1,0 +1,33 @@
+_repo: The-Young-Ice-Whalers_67445
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Packard, Winthrop
+    birthdate: 1862
+    deathdate: 1943
+    gutenberg_agent_id: '35097'
+    url: http://www.gutenberg.org/2009/agents/35097
+description: ''
+gutenberg_issued: '2022-02-19'
+identifiers:
+  gutenberg: '67445'
+language: en
+pgterms:marc904: https://archive.org/details/youngicewhalers00packrich/page/n7/mode/2up
+pgterms:marc905: 20200926104448winthrop
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: Carlos Colon, the University of California and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive/American Libraries.)
+publication_note: United States :Houghton Mifflin Company,1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Inuit -- Juvenile fiction'
+- !lcsh 'Arctic regions -- Juvenile fiction'
+- !lcsh 'Whaling -- Juvenile fiction'
+- GITenberg
+title: The Young Ice Whalers
+url: http://www.gutenberg.org/ebooks/67445
