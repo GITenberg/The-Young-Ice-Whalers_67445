@@ -1,5 +1,8 @@
 _repo: The-Young-Ice-Whalers_67445
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67445-h/images/cover.jpg
 creator:
   author:
     agent_name: Packard, Winthrop
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '35097'
     url: http://www.gutenberg.org/2009/agents/35097
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67445#The-Young-Ice-Whalers
 gutenberg_issued: '2022-02-19'
 identifiers:
   gutenberg: '67445'
